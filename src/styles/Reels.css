@@ -1,0 +1,413 @@
+
+
+
+
+
+.upper {
+    height:20px ;
+    font-size: 30px;
+    
+}
+
+.lower {
+    height: 40px;
+}
+
+.cir {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.circle {
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 25px;
+    border: 2px solid gray;
+}
+
+
+
+
+.phone2 {
+    background-image: url(../assets/camera.jpg);
+    height: 400px; 
+    width: 300px;
+    border-width: 3px;
+    border-color: black;
+    margin-top: 50px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 25px;
+}
+
+.phone3 {
+    background-image: url(../assets/camera.jpg);
+    height: 400px; 
+    width: 300px;
+    border-width: 3px;
+    border-color: black;
+    margin-top: 50px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 25px;
+}
+
+.phone4 {
+    background-image: url(../assets/camera.jpg);
+    height: 400px; 
+    width: 300px;
+    border-width: 3px;
+    border-color: black;
+    margin-top: 50px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 25px;
+}
+
+@media (min-width: 1391px) and (max-width: 1600px) {
+    .phone1 {
+        border-radius: 25px;
+        border: 3px solid;
+         height: 379px; 
+         width: 215px;
+         border-radius: 15px;
+         background-size: cover;
+         background-position: center;
+         margin-top: 10px;
+     
+     }
+
+    .container__reels {
+        display: flex;
+        justify-content: space-between;
+        padding: 40px;
+        padding-bottom: 100px;
+    
+    }
+
+    .backphone {
+        text-align: center;
+        padding-left: 70px;
+        padding-top: 110px;
+        padding-right: 70px;
+        background-color: rgb(114, 114, 114);
+        border-top: 2px solid rgb(60, 57, 57);
+    }
+
+    .card {
+        border: 4px solid;
+        border-color: rgb(56, 56, 58);
+        border-radius: 25px; 
+        padding-left: 4px;
+        padding-right: 4px;
+        height: 450px;
+        background-color: #1e1d1d;
+    }
+    .more__text {   
+        font-size: 2.25rem;
+        margin-bottom: 30px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+    }
+    
+    
+}
+
+@media (min-width: 1000px) and (max-width: 1390px) {
+    .phone1 {
+        border-radius: 25px;
+        border: 3px solid;
+         height: 379px; 
+         width: 215px;
+         border-radius: 15px;
+         background-size: cover;
+         background-position: center;
+         margin-top: 10px;
+     
+     }
+
+    .container__reels {
+        display: flex;
+        justify-content: center;
+        /* padding: 40px; */
+        padding-bottom: 100px;
+    
+    }
+    .card {
+        border: 4px solid;
+        border-color: rgb(56, 56, 58);
+        border-radius: 25px; 
+        padding-left: 4px;
+        padding-right: 4px;
+        height: 450px;
+        background-color: #1e1d1d;
+        width: 240px;
+        margin: 7px;
+    }
+
+    .backphone {
+        text-align: center;
+        padding-left: 70px;
+        padding-top: 90px;
+        padding-right: 70px;
+        background-color: rgb(114, 114, 114);
+        border-top: 2px solid rgb(60, 57, 57);
+    }
+    .more__text {   
+        font-size: 2.25rem;
+        margin-bottom: 30px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+    }
+    
+    
+}
+
+@media (min-width: 760px) and (max-width: 1000px) {
+    .more__text {   
+        font-size: 2rem;
+        margin-bottom: 30px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+      
+    }
+    
+
+    .container__reels {
+        /* padding: 40px; */
+        padding-bottom: 60px;
+        padding-left: 150px;
+    
+    }
+    .card {
+        
+        border: px solid;
+        border-color: rgb(56, 56, 58);
+        border-radius: 25px; 
+        
+        height: 545px;
+        background-color: #1e1d1d;
+        width: 290px;
+        margin: 30px;
+    }
+
+    .backphone {
+        justify-items: center;
+        text-align: center;
+        padding-left: 70px;
+        padding-top: 90px;
+        padding-right: 70px;
+        background-color: rgb(114, 114, 114);
+        border-top: 2px solid rgb(60, 57, 57);
+       
+       
+    }
+
+    .phone1 {
+        border-radius: 25px;
+        border: 3px solid;
+         height: 480px; 
+         width: 273px;
+         border-radius: 15px;
+         background-size: cover;
+         background-position: center;
+         margin-top: 10px;
+     
+     }
+}
+
+@media (min-width: 400px) and (max-width: 759px) {
+    .more__text {   
+        font-size: 2.5rem;
+        margin-bottom: 30px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        justify-content: center;
+      
+    }
+
+    .phone1 {
+        border-radius: 25px;
+        border: 2px solid;
+         height: 625px; 
+         width: 355px;
+         border-radius: 15px;
+         background-size: cover;
+         background-position: center;
+         margin-top: 10px;
+    }
+
+
+    .card {
+        justify-content: center;
+        border: 3px solid;
+        border-color: rgb(56, 56, 58);
+        border-radius: 25px; 
+        width: 385px;
+        background-color: #1e1d1d;
+        margin-bottom: 40px;
+        
+    }
+
+    .backphone {
+        justify-items: center;
+        text-align: center;
+        padding-left: 20px;
+        padding-top: 50px;
+        padding-right: 20px;
+        background-color: #fff;
+        border-top: 2px solid rgb(60, 57, 57);
+       
+    }
+
+    .container__reels {
+       
+        justify-content: center;
+        /* padding: 40px; */
+        padding-bottom: 40px;
+    
+    }
+
+    .lower {
+        width: 400px;
+    }
+
+}
+
+@media (min-width: 350px) and (max-width: 399px)  {
+    .more__text {   
+        font-size: 2rem;
+        margin-bottom: 30px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        justify-content: center;
+      
+    }
+
+    .phone1 {
+        border-radius: 25px;
+        border: 2px solid;
+         height: 440px; 
+         width: 250px;
+         /* border-radius: 15px; */
+         background-size: cover;
+         background-position: center;
+         margin-top: 10px;
+    }
+
+
+    .card {
+        justify-content: center;
+        border: 3px solid;
+        border-color: rgb(56, 56, 58);
+        border-radius: 25px; 
+        width: 270px;
+        background-color: #1e1d1d;
+        margin-bottom: 40px;
+        margin-left: 38px;
+        
+    }
+
+    .backphone {
+        justify-items: center;
+        text-align: center;
+        padding-left: 20px;
+        padding-top: 50px;
+        padding-right: 20px;
+        background-color: #fff;
+        border-top: 2px solid rgb(60, 57, 57);
+       
+    }
+
+    .container__reels {
+       
+        justify-content: center;
+        /* padding: 40px; */
+        padding-bottom: 40px;
+    
+    }
+
+    .lower {
+        height: 30px;
+    }
+
+    .upper {
+        height: 10px;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    .more__text {   
+        font-size: 2rem;
+        margin-bottom: 30px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        justify-content: center;
+      
+    }
+
+    .phone1 {
+        border-radius: 25px;
+        border: 2px solid;
+         height: 440px; 
+         width: 250px;
+         /* border-radius: 15px; */
+         background-size: cover;
+         background-position: center;
+         margin-top: 10px;
+    }
+
+
+    .card {
+        justify-content: center;
+        border: 3px solid;
+        border-color: rgb(56, 56, 58);
+        border-radius: 25px; 
+        width: 270px;
+        background-color: #1e1d1d;
+        margin-bottom: 40px;
+       
+        
+    }
+
+    .backphone {
+        justify-items: center;
+        text-align: center;
+        padding-left: 20px;
+        padding-top: 50px;
+        padding-right: 20px;
+        background-color: #fff;
+        border-top: 2px solid rgb(60, 57, 57);
+       
+    }
+
+    .container__reels {
+       
+        justify-content: center;
+        /* padding: 40px; */
+        padding-bottom: 40px;
+    
+    }
+
+    .lower {
+        height: 30px;
+    }
+
+    .upper {
+        height: 10px;
+    }
+}
