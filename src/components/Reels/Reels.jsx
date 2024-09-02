@@ -3,6 +3,9 @@ import v1 from "../../assets/v1.mp4";
 import v2 from "../../assets/v2.mp4";
 import v3 from "../../assets/v3.mp4";
 import v4 from "../../assets/v4.mp4";
+import v5 from "../../assets/v5.mp4";
+import v6 from "../../assets/v6.mp4";
+import v7 from "../../assets/v7.mp4";
 
 
 
@@ -51,6 +54,73 @@ function Reels() {
           </div>
          <div className='phone21'>
           <video src={v3} controls autoPlay muted loop className='phone1'></video>
+         </div>
+         <div className='lower'> 
+          <div className='cir'>
+            <div className='circle'>
+
+            </div>
+          </div>
+         </div>
+        </div>
+
+        <div className='card'>
+          <div className='upper'>
+          ------
+          </div>
+         <div className='phone21'>
+          <video src={v4} controls autoPlay muted loop className='phone1'></video>
+         </div>
+         <div className='lower'> 
+          <div className='cir'>
+            <div className='circle'>
+
+            </div>
+          </div>
+         </div>
+        </div>
+     </div>
+
+     <div className='container__reels'>
+      
+        <div className='card'>
+          <div className='upper'>
+          ------
+          </div>
+         <div className='phone21'>
+          <video src={v5} controls autoPlay muted loop className='phone1'></video>
+         </div>
+         <div className='lower'> 
+          <div className='cir'>
+            <div className='circle'>
+
+            </div>
+          </div>
+         </div>
+        </div>
+
+        <div className='card'>
+          <div className='upper'>
+          ------
+          </div>
+         <div className='phone21'>
+          <video src={v6} controls autoPlay muted loop className='phone1'></video>
+         </div>
+         <div className='lower'> 
+          <div className='cir'>
+            <div className='circle'>
+
+            </div>
+          </div>
+         </div>
+        </div>
+
+        <div className='card'>
+          <div className='upper'>
+          ------
+          </div>
+         <div className='phone21'>
+          <video src={v7} controls autoPlay muted loop className='phone1'></video>
          </div>
          <div className='lower'> 
           <div className='cir'>
