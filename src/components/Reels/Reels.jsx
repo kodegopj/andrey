@@ -6,6 +6,11 @@ import v4 from "../../assets/v4.mp4";
 import v5 from "../../assets/v5.mp4";
 import v6 from "../../assets/v6.mp4";
 import v7 from "../../assets/v7.mp4";
+import v8 from "../../assets/v8.mp4";
+import v9 from "../../assets/v9.mp4";
+import v10 from "../../assets/v10.mp4";
+import v11 from "../../assets/v11.mp4";
+import v12 from "../../assets/v12.mp4";
 
 
 
@@ -136,7 +141,7 @@ function Reels() {
           ------
           </div>
          <div className='phone21'>
-          <video src={v4} controls autoPlay muted loop className='phone1'></video>
+          <video src={v8} controls autoPlay muted loop className='phone1'></video>
          </div>
          <div className='lower'> 
           <div className='cir'>
@@ -147,7 +152,74 @@ function Reels() {
          </div>
         </div>
      </div>
-   
+
+    <div className='container__reels'>
+      <div className='card'>
+          <div className='upper'>
+          ------
+          </div>
+         <div className='phone21'>
+          <video src={v9} controls autoPlay muted loop className='phone1'></video>
+         </div>
+         <div className='lower'> 
+          <div className='cir'>
+            <div className='circle'>
+
+            </div>
+          </div>
+         </div>
+        </div>
+
+        <div className='card'>
+          <div className='upper'>
+          ------
+          </div>
+         <div className='phone21'>
+          <video src={v10} controls autoPlay muted loop className='phone1'></video>
+         </div>
+         <div className='lower'> 
+          <div className='cir'>
+            <div className='circle'>
+
+            </div>
+          </div>
+         </div>
+        </div>
+
+        <div className='card'>
+          <div className='upper'>
+          ------
+          </div>
+         <div className='phone21'>
+          <video src={v11} controls autoPlay muted loop className='phone1'></video>
+         </div>
+         <div className='lower'> 
+          <div className='cir'>
+            <div className='circle'>
+
+            </div>
+          </div>
+         </div>
+        </div>
+
+        <div className='card'>
+          <div className='upper'>
+          ------
+          </div>
+         <div className='phone21'>
+          <video src={v12} controls autoPlay muted loop className='phone1'></video>
+         </div>
+         <div className='lower'> 
+          <div className='cir'>
+            <div className='circle'>
+
+            </div>
+          </div>
+         </div>
+        </div>
+      </div>
+
+
     </div>
   )
 }
