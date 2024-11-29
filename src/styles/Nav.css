@@ -62,7 +62,7 @@
     display: flex;
     align-items: center;
     font-size: 25px;
-    color: #eeb746;
+    color: white;
     text-decoration: none;
     margin-left: 30px;
   }
@@ -73,7 +73,7 @@
     justify-content: space-between;
     height: 70px;
     padding: 0 2rem;
-    background-color:black;
+    background-color: #545164;
     color: var(--textColor);
     position: sticky;
     top: 0;
@@ -116,7 +116,7 @@
   .contact {
     padding: 10px 20px;
     border-radius: 10px;
-    background-color: #eeb746;
+    background-color: white;
     margin-right: 0px;
     color: black;
   }
@@ -190,7 +190,7 @@
       display: flex;
       align-items: center;
       font-size: 20px;
-      color: #eeb746;
+      color: white;
       margin-left: 5px;
     }
   }

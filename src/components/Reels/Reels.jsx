@@ -22,9 +22,9 @@ function Reels() {
      <div className='container__reels'>
       
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v1} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -38,9 +38,9 @@ function Reels() {
         </div>
 
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v2} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -54,9 +54,9 @@ function Reels() {
         </div>
 
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v3} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -70,9 +70,9 @@ function Reels() {
         </div>
 
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v4} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -89,9 +89,9 @@ function Reels() {
      <div className='container__reels'>
       
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v5} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -105,9 +105,9 @@ function Reels() {
         </div>
 
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v6} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -121,9 +121,9 @@ function Reels() {
         </div>
 
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v7} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -137,9 +137,9 @@ function Reels() {
         </div>
 
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v8} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -155,9 +155,9 @@ function Reels() {
 
     <div className='container__reels'>
       <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v9} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -171,9 +171,9 @@ function Reels() {
         </div>
 
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v10} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -187,9 +187,9 @@ function Reels() {
         </div>
 
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v11} controls autoPlay muted loop className='phone1'></video>
          </div>
@@ -203,9 +203,9 @@ function Reels() {
         </div>
 
         <div className='card'>
-          <div className='upper'>
+          {/* <div className='upper'>
           ------
-          </div>
+          </div> */}
          <div className='phone21'>
           <video src={v12} controls autoPlay muted loop className='phone1'></video>
          </div>

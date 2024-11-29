@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
 
 .skills {
-    background-color: rgb(146, 144, 143);
+    background-color: #E8E1EA;
     border: 2px solid gray;
     border-radius: 25px;
     height: 200px;
@@ -9,7 +9,7 @@
 }
 
 .back__skill {
-    background-color: rgb(17, 16, 16);
+    background-color: #545164;
 }
 
 
@@ -106,7 +106,7 @@
     }
 
     .skills {
-        background-color: rgb(146, 144, 143);
+        background-color: #E8E1EA;
         border: 2px solid gray;
         border-radius: 25px;
         height: 200px;
@@ -134,7 +134,7 @@
     }
 
     .skills {
-        background-color: #fff;
+        background-color: #E8E1EA;
         border: 2px solid gray;
         border-radius: 25px;
         height: 180px;
@@ -192,7 +192,7 @@
         font-style: normal;
     }
     .skills {
-        background-color: #fff;
+        background-color: #E8E1EA;
         border: 2px solid gray;
         border-radius: 25px;
         height: 200px;
@@ -249,7 +249,7 @@
         font-style: normal;
     }
     .skills {
-        background-color: #fff;
+        background-color: #E8E1EA;
         border: 2px solid gray;
         border-radius: 25px;
         height: 200px;
@@ -306,7 +306,7 @@
         font-style: normal;
     }
     .skills {
-        background-color: #fff;
+        background-color: #E8E1EA;
         border: 2px solid gray;
         border-radius: 25px;
         height: 230px;

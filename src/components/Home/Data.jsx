@@ -11,9 +11,9 @@ function Data() {
       </h1>
       <h3 className="home__subtitle">Video Editor/Graphic Designer</h3>
       <p className="home__description">
-      I'm a Video Editor, <b className="unlock">Helping Businesses </b>and Content Creators to <b className="unlock">ENGAGE their AUDIENCE </b>with <b className="unlock">STUNNING VIDEOS </b>not only Capture attention but turn Viewers into Loyal Customers.
+      I'm a Video Editor, <b className="unlock"></b>Transforming Ideas into <b className="unlock">HIGH-IMPACT VIDEOS </b>that drive <b className="unlock">ENGAGEMENT </b>and build Stronger Connections with Your Audience.
       </p>
-      <div className="home__description">"<b className="unlock">UNLOCK THE POWER OF VIDEO MARKETING:</b> More Leads, More Sales, More Growth!"
+      <div className="home__description">"<b className="unlock">HELPING CREATORS AND BUSINESSES</b> Dominate the DIGITAL Space with engaging High-Quality Videos!"
         </div>
       <a href="#contacts" className=" hello button--flex">
         Hello <RiMailSendFill className="icon__hello" />

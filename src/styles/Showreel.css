@@ -1,8 +1,8 @@
 .background {
-    background-color: rgb(193, 191, 189);
+    background-color: rgb(255, 253, 252);
     background-size: cover;
     background-position: center;
-    height: 850px;
+    height: 880px;
     padding-bottom: 2px;
     padding-top: 40px;
  }
@@ -17,8 +17,8 @@
  
  .show__video {
      background-image: url(../assets/camera.jpg);
-     height: 455px;
-     width: 810px;
+     height: 551px;
+     width: 979px;
      background-size: cover;
      background-position: center;
      border-radius: 10px;
@@ -26,10 +26,16 @@
     
  }
  
- .vidcard {
+ /* .vidcard {
      border: 15px solid;
      border-color: rgb(62, 61, 61);
      border-radius: 25px;
+ } */
+
+ .vidcard {
+    border-radius: 25px;
+    margin-top: 20px;
+    border: 10px solid;
  }
  
  .show__box {
@@ -44,12 +50,13 @@
      font-weight: weight;
      font-style: normal;
      font-size: 2.25rem;
+    padding-bottom: 40px;
  }
  .text {
      color: black;
  }
  
- .stand {
+ /* .stand {
      background-color: rgb(62, 61, 61);
      width: 50px;
      height: 20px;
@@ -66,13 +73,13 @@
      width: 450px;
      height: 18px;
      border-radius: 25px;
- }
+ } */
  
  @media (min-width: 1000px) and (max-width: 1270px) {
      .show__video {
          background-image: url(../assets/camera.jpg);
-         height: 400px;
-         width: 710px;
+         height: 497px;
+         width: 890px;
          background-size: cover;
          background-position: center;
          border-radius: 10px;
@@ -81,9 +88,11 @@
      }
      
      .vidcard {
-         border: 15px solid;
+         border: 10px solid;
          border-color: rgb(62, 61, 61);
          border-radius: 25px;
+         margin-top: 40px;
+         margin-bottom: 40px;
      }
      
      .show__box {
@@ -95,8 +104,8 @@
  @media (min-width: 760px) and (max-width: 1000px) {
      .show__video {
          background-image: url(../assets/camera.jpg);
-         height: 338px;
-         width: 600px;
+         height: 377px;
+         width: 670px;
          background-size: cover;
          background-position: center;
          border-radius: 10px;
@@ -105,7 +114,7 @@
      }
      
      .vidcard {
-         border: 15px solid;
+         border: 10px solid;
          border-color: rgb(62, 61, 61);
          border-radius: 25px;
      }
@@ -117,10 +126,10 @@
      }
  
      .background {
-         background-color: rgb(193, 191, 189);
+         background-color: rgb(255, 253, 252);
          background-size: cover;
          background-position: center;
-         height: 680px;
+         height: 730px;
          padding-bottom: 2px;
          padding-top: 40px;
       }
@@ -136,17 +145,17 @@
  @media (min-width: 400px) and (max-width: 759px) {
      .show__video {
          background-image: url(../assets/camera.jpg);
-         height: 218px;
-         width: 380px;
+         height: 210px;
+         width: 372px;
          background-size: cover;
          background-position: center;
-         border-radius: 10px;
+         border-radius: 20px;
          
         
      }
  
      .background {
-         background-color: rgb(193, 191, 189);
+        background-color: rgb(255, 253, 252);
          background-size: cover;
          background-position: center;
          height:490px;
@@ -155,7 +164,7 @@
          /* width: 459px; */
      }
  
-     .stand {
+     /* .stand {
      background-color: rgb(62, 61, 61);
      width: 30px;
      height: 20px;
@@ -172,10 +181,10 @@
          width: 150px;
          height: 12px;
          border-radius: 25px;
-     }
+     } */
  
      .vidcard {
-         border: 10px solid;
+         border: 5px solid;
          border-color: rgb(62, 61, 61);
          border-radius: 25px;
      }
@@ -192,26 +201,26 @@
  @media (min-width: 350px) and (max-width: 399px) {
      .show__video {
          background-image: url(../assets/camera.jpg);
-         height: 195px;
-         width: 340px;
+         height: 190px;
+         width: 337px;
          background-size: cover;
          background-position: center;
-         border-radius: 15px;
+         border-radius: 20px;
          
         
      }
  
      .background {
-         background-color: rgb(193, 191, 189);
+        background-color: rgb(255, 253, 252);
          background-size: cover;
          background-position: center;
-         height:450px;
+         height:440px;
          padding-bottom: 2px;
          /* padding-top: 40px; */
          /* width: 459px; */
      }
  
-     .stand {
+     /* .stand {
      background-color: rgb(62, 61, 61);
      width: 30px;
      height: 20px;
@@ -228,10 +237,10 @@
          width: 150px;
          height: 12px;
          border-radius: 25px;
-     }
+     } */
  
      .vidcard {
-         border: 10px solid;
+         border: 5px solid;
          border-color: rgb(62, 61, 61);
          border-radius: 25px;
      }
@@ -248,26 +257,26 @@
  @media (min-width: 300px) and (max-width: 349px) {
        .show__video {
          background-image: url(../assets/camera.jpg);
-         height: 195px;
+         height: 163px;
          width: 290px;
          background-size: cover;
          background-position: center;
-         border-radius: 15px;
+         border-radius: 20px;
          
         
      }
  
      .background {
-         background-color: rgb(193, 191, 189);
+        background-color: rgb(255, 253, 252);
          background-size: cover;
          background-position: center;
-         height:430px;
+         height:380px;
          padding-bottom: 2px;
          /* padding-top: 40px; */
          /* width: 459px; */
      }
  
-     .stand {
+     /* .stand {
      background-color: rgb(62, 61, 61);
      width: 30px;
      height: 20px;
@@ -284,7 +293,7 @@
          width: 150px;
          height: 12px;
          border-radius: 25px;
-     }
+     } */
  
      .vidcard {
          border: 5px solid;
