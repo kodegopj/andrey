@@ -1,0 +1,586 @@
+.sssc {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+   
+}
+
+.smc {
+    background-color: rgb(193, 191, 189);
+}
+
+
+.st {
+    padding-top: 60px;
+    font-size: 2.25rem;
+    font-family: "Syne", sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.stepsix-img1 {
+    
+    width: 550px;
+    height: 480px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.stepsix-img2   {
+    width: 550px;
+    height: 480px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+.stepsix-img3 {
+    background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+    width: 450px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+
+.stepsix-semititle {
+    font-size: 1.75rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: "Syne", sans-serif;
+    margin-right: 40px;
+}
+
+.stepsix-package {
+    margin-bottom: 60px;
+    margin-left: 70px;
+    
+}
+
+.stepsix-p {
+    width: 380px;
+}
+
+@media (min-width: 1391px) and (max-width: 1600px)  {
+    .sssc {
+        display: flex;
+        justify-content: center;
+        padding: 40px;
+       
+    }
+    
+    .smc  {
+        background-color: rgb(193, 191, 189);
+    }
+    
+    
+    .st {
+        padding-top: 60px;
+        font-size: 2.25rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepsix-img1 {
+        
+        width: 550px;
+        height: 480px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 10px;
+    }
+    
+    .stepsix-img2   {
+        width: 550px;
+        height: 480px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+    }
+    
+    .stepsix-img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 450px;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+    }
+    
+    .stepsix-semititle {
+        font-size: 1.75rem;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        font-family: "Syne", sans-serif;
+        margin-right: 40px;
+    }
+    
+    .stepsix-package {
+        margin-bottom: 60px;
+        margin-left: 70px;
+        
+    }
+    
+    .stepsix-p {
+        width: 380px;
+    }
+
+    .pjv {
+        width: 280px;
+        height: auto;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+        border: 3px solid black;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1390px) {
+    .sssc {
+        display: flex;
+        justify-content: center;
+        padding: 40px;
+       
+    }
+    
+    .smc {
+        background-color: rgb(193, 191, 189);
+    }
+    
+    
+    .st {
+        padding-top: 60px;
+        font-size: 2.25rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepsix-img1 {
+        
+        width: auto;
+        height: 480px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 10px;
+    }
+    
+    .stepsix-img2   {
+        width: auto;
+        height: 480px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+    }
+    
+    .stepsix-img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 450px;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+    }
+    
+    .stepsix-semititle {
+        font-size: 1.75rem;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        font-family: "Syne", sans-serif;
+        margin-right: 40px;
+    }
+    
+    /* .stepsix-package {
+        margin-bottom: 60px;
+        margin-left: 70px;
+        
+    } */
+    
+    .stepsix-p {
+        width: 380px;
+    }
+
+    .pjv {
+        width: 280px;
+        height: auto;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+        border: solid 3px black;    
+    }
+}
+
+@media (min-width: 760px) and (max-width: 1000px) {
+    .sssc {
+        display: flex;
+        justify-content: center;
+        padding: 0px 40px 0px 40px;
+        margin: 0px 20px;
+       
+    }
+    
+    .smc {
+        background-color: rgb(193, 191, 189);
+    }
+    
+    
+    .st {
+        padding: 60px 20px 20px 20px;
+        font-size: 2rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+     
+    }
+    
+    .stepsix-img1 {
+        
+        width: 330px;
+        height: 480px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 10px;
+    }
+    
+    
+
+    .ss2   {
+        width: 330px;
+        height: 300px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+    }
+    
+    .stepsix-img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 450px;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+    }
+    
+    .stepsix-semititle {
+        font-size: 1.5rem;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        margin-right: 40px;
+    }
+    
+    .stepsix-package {
+        margin-bottom: 60px;
+        margin-left: 0px;      
+    }
+
+    .stepsix-package1 {
+        margin-bottom: 60px;
+        margin-left: 0px;
+        
+    }
+    
+    .stepsix-p {
+        width: 280px;
+    }
+
+    
+
+    .pjv {
+        width: 250px;
+        height: auto;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+        border: solid 3px black;    
+    }
+
+   
+}
+
+@media (min-width: 400px) and (max-width: 759px) {
+    .sssc {
+        display: block;
+        justify-content: center;
+        padding: 0px 20px 20px 20px;
+        margin: 0px 20px;
+       
+    }
+    
+    .smc {
+        background-color: rgb(193, 191, 189);
+    }
+    
+    
+    .st {
+        padding: 60px 20px 20px 20px;
+        font-size: 1.75rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+     
+    }
+    
+    .stepsix-img1 {
+        
+        width: 330px;
+        height: 480px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 10px;
+    }
+    
+    
+
+    .ss2   {
+        width: 330px;
+        height: 300px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+    }
+    
+    .stepsix-img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 450px;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+    }
+    
+    .stepsix-semititle {
+        font-size: 1.5rem;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        margin-right: 40px;
+    }
+    
+    .stepsix-package {
+        margin-bottom: 60px;
+        margin-left: 0px;      
+    }
+
+    .stepsix-package1 {
+        margin-bottom: 60px;
+        margin-left: 0px;
+        
+    }
+    
+    .stepsix-p {
+        width: 320px;
+    }
+
+    
+
+    .pjv {
+        width: 300px;
+        height: auto;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+        border: solid 3px black;    
+    }
+}
+
+@media (min-width: 350px) and (max-width: 399px) {
+    .sssc {
+        display: block;
+        justify-content: center;
+        padding: 0px 20px 20px 20px;
+        margin: 0px 20px;
+       
+    }
+    
+    .smc {
+        background-color: rgb(193, 191, 189);
+    }
+    
+    
+    .st {
+        padding: 60px 20px 20px 20px;
+        font-size: 1.5rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+     
+    }
+    
+    .stepsix-img1 {
+        
+        width: 330px;
+        height: 480px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 10px;
+    }
+    
+    
+
+    .ss2   {
+        width: 330px;
+        height: 300px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+    }
+    
+    .stepsix-img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 450px;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+    }
+    
+    .stepsix-semititle {
+        font-size: 1.5rem;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        margin-right: 0px;
+    }
+    
+    .stepsix-package {
+        margin-bottom: 60px;
+        margin-left: 0px;      
+    }
+
+    .stepsix-package1 {
+        margin-bottom: 60px;
+        margin-left: 0px;
+        
+    }
+    
+    .stepsix-p {
+        width: 320px;
+    }
+
+    
+
+    .pjv {
+        width: 290px;
+        height: auto;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+        border: solid 3px black;    
+    }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    .sssc {
+        display: block;
+        justify-content: center;
+        padding: 0px 20px 20px 20px;
+        margin: 0px;
+       
+    }
+    
+    .smc {
+        background-color: rgb(193, 191, 189);
+    }
+    
+    
+    .st {
+        padding: 40px 20px 0px 20px;
+        font-size: 1.5rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+     
+    }
+    
+    .stepsix-img1 {
+        
+        width: 330px;
+        height: 480px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 10px;
+    }
+    
+    
+
+    .ss2   {
+        width: 330px;
+        height: 300px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+    }
+    
+    .stepsix-img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 450px;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+    }
+    
+    .stepsix-semititle {
+        font-size: 1.5rem;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        margin-right: 0px;
+    }
+    
+    .stepsix-package {
+        margin-bottom: 60px;
+        margin-left: 0px;      
+    }
+
+    .stepsix-package1 {
+        margin-bottom: 60px;
+        margin-left: 0px;
+        
+    }
+    
+    .stepsix-p {
+        width: 260px;
+    }
+
+    
+
+    .pjv {
+        width: 250px;
+        height: auto;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-left: 10px;
+        border: solid 3px black;    
+    }
+}

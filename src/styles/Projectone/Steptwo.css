@@ -1,0 +1,452 @@
+.steptwo-container {
+    background-color: rgb(32, 32, 32);
+    padding: 60px 80px;
+}
+
+.steptwo-title {
+    color: #eeb746;
+    font-size: 2.25rem;
+    font-family: "Syne", sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+/* .import-section {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+} */
+
+.img1-steptwo {
+    background: url(../../assets//Prjectone/Steptwo/st1.jpg);
+    width: 500px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.img2-steptwo {
+    background: url(../../assets//Prjectone/Steptwo/st2.jpg);
+    width: 500px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.img3-steptwo {
+    background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+    width: 500px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.steptwo-mainsection{   
+    padding: 40px;
+}
+
+.steptwo-titletwo {
+    font-size: 2rem;
+    color: #eeb746;
+}
+
+.steptwo-p {
+    color: #eee;
+}
+
+@media (min-width: 1391px) and (max-width: 1600px)  {
+    .steptwo-container {
+        background-color: rgb(32, 32, 32);
+        padding: 60px 80px;
+    }
+    
+    .steptwo-title {
+        color: #eeb746;
+        font-size: 2.25rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 60px;
+    }
+    
+    .import-s {
+        display: flex;
+        justify-content: center;
+        padding: 30px;
+    }
+    
+    .img1-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st1.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img2-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img3-steptwo {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .steptwo-mainsection{   
+        padding: 40px;
+    }
+    
+    .steptwo-titletwo {
+        font-size: 2rem;
+        color: #eeb746;
+    }
+    
+    .steptwo-p {
+        color: #eee;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1390px) {
+    .steptwo-container {
+        background-color: rgb(32, 32, 32);
+        padding: 60px 20px;
+    }
+    
+    .steptwo-title {
+        color: #eeb746;
+        font-size: 2.25rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 60px;
+    }
+    
+    .import-s {
+        display: flex;
+        justify-content: center;
+        padding: 30px;
+    }
+    
+    .img1-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st1.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+    }
+    
+    .img2-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+    }
+    
+    .img3-steptwo {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+    }
+    
+    .steptwo-mainsection{   
+        padding: 40px;
+    }
+    
+    .steptwo-titletwo {
+        font-size: 2rem;
+        color: #eeb746;
+    }
+    
+    .steptwo-p {
+        color: #eee;
+    }
+}
+
+@media (min-width: 760px) and (max-width: 1000px)  {
+    .steptwo-container {
+        background-color: rgb(32, 32, 32);
+        padding: 60px 20px;
+    }
+    
+    .steptwo-title {
+        color: #eeb746;
+        font-size: 2.25rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 60px;
+    }
+    
+    .import-s{
+        display: block;
+        align-items: center;
+        padding: 30px;
+    }
+    
+    .img1-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st1.jpg);
+        width: auto;
+        height: 380px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+    }
+    
+    .img2-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st2.jpg);
+        width: auto;
+        height: 380px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+    }
+    
+    .img3-steptwo {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: auto;
+        height: 380px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+    }
+    
+    .steptwo-mainsection{   
+        padding: 40px 0px;
+    }
+    
+    .steptwo-titletwo {
+        font-size: 2rem;
+        color: #eeb746;
+    }
+    
+    .steptwo-p {
+        color: #eee;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 759px) {
+    .steptwo-container {
+        background-color: rgb(32, 32, 32);
+        padding: 60px 20px;
+    }
+    
+    .steptwo-title {
+        color: #eeb746;
+        font-size: 1.75rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 20px;
+    }
+    
+    .import-s{
+        display: block;
+        align-items: center;
+        padding: 30px;
+    }
+    
+    .img1-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st1.jpg);
+        width: auto;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+    }
+    
+    .img2-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st2.jpg);
+        width: auto;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+    }
+    
+    .img3-steptwo {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: auto;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+    }
+    
+    .steptwo-mainsection{   
+        padding: 40px 0px 0px 0px;
+    }
+    
+    .steptwo-titletwo {
+        font-size: 1.5rem;
+        color: #eeb746;
+    }
+    
+    .steptwo-p {
+        color: #eee;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 399px)  {
+    .steptwo-container {
+        background-color: rgb(32, 32, 32);
+        padding: 60px 20px;
+    }
+    
+    .steptwo-title {
+        color: #eeb746;
+        font-size: 1.5rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 10px;
+    }
+    
+    .import-s{
+        display: block;
+        align-items: center;
+        
+    }
+    
+    .img1-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st1.jpg);
+        width: auto;
+        height: 160px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+        margin-top: 20px;
+    }
+    
+    .img2-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st2.jpg);
+        width: auto;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+        margin-top: 20px;
+    }
+    
+    .img3-steptwo {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: auto;
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+        margin-top: 20px;
+    }
+    
+    .steptwo-mainsection{   
+        padding: 40px 0px 0px 0px;
+    }
+    
+    .steptwo-titletwo {
+        font-size: 1.5rem;
+        color: #eeb746;
+    }
+    
+    .steptwo-p {
+        color: #eee;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    .steptwo-container {
+        background-color: rgb(32, 32, 32);
+        padding: 40px 20px;
+    }
+    
+    .steptwo-title {
+        color: #eeb746;
+        font-size: 1.5rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 10px;
+    }
+    
+    .import-s{
+        display: block;
+        align-items: center;
+        
+    }
+    
+    .img1-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st1.jpg);
+        width: auto;
+        height: 160px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+        margin-top: 20px;
+    }
+    
+    .img2-steptwo {
+        background: url(../../assets//Prjectone/Steptwo/st2.jpg);
+        width: auto;
+        height: 160px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+        margin-top: 20px;
+    }
+    
+    .img3-steptwo {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: auto;
+        height: 160px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        border: solid 2px white;
+        margin-top: 20px;
+    }
+    
+    .steptwo-mainsection{   
+        padding: 40px 0px 0px 0px;
+    }
+    
+    .steptwo-titletwo {
+        font-size: 1.5rem;
+        color: #eeb746;
+    }
+    
+    .steptwo-p {
+        color: #eee;
+    }
+}

@@ -1,0 +1,431 @@
+.ppicture11 {
+    background: url(../../assets//Prjectone/FirstStep/fs1.jpg);
+    width: 500px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.projectonepicture2 {
+    background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+    width: 500px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+
+.pptag {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+
+
+.one-nme {
+    font-size: 2.25rem;
+    font-family: "Syne", sans-serif;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.o-stepone {
+    font-size: 1.75rem;
+}
+
+@media (min-width: 1391px) and (max-width: 1600px) {
+    .fscon{
+        background-color: rgb(193, 191, 189);
+        padding: 40px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .pp22 {
+        width: auto;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1390px) {
+    /* .firststep-container {
+        background-color: rgb(193, 191, 189);
+        padding: 40px;
+    } */
+    .fscon{
+        background-color: rgb(193, 191, 189);
+        padding: 40px;
+        width: fit-content;
+    }
+
+    .ppicture11 {
+        background: url(../../assets//Prjectone/FirstStep/fs1.jpg);
+        width: 750px;
+        height: 400px;
+        background-position: center;
+        background-size: cover;
+        margin-bottom: 40px;
+        border-radius: 15px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .projectonepicture2 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width:750px;
+        height: 400px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-bottom: 40px;
+    }
+    
+
+    
+    
+    .stepones-maincontainer {
+    display: flex;
+    justify-content: center;
+    padding:  0px ;
+    background-color: rgb(193, 191, 189);
+    }
+
+    .onename-steponesection {
+        margin-bottom: 0px;
+    }
+
+    .sectionone {
+        margin-right: 20px;
+        padding-left: 0px;
+        margin-left: 0px;
+        width: 1390px;
+    }
+    
+    .ptag {
+        margin-top: 0px;
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+    }
+
+    .ppicture11 {
+        background: url(../../assets//Prjectone/FirstStep/fs1.jpg);
+        width: 890px;
+        height: 500px;
+        background-position: center;
+        background-size: cover;
+        margin-bottom: 40px;
+        border-radius: 15px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .projectonepicture2 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width:890px;
+        height: 500px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-bottom: 40px;
+    }
+
+    .pp22 {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 760px) and (max-width: 1000px) {
+
+    
+    .sectionone {
+        padding: 0px 0px;
+    }
+    
+    .stepones-maincontainer {
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px ;
+    background-color: rgb(193, 191, 189);
+    }
+
+    .onename-steponesection {
+        margin-bottom: 0px;
+    }
+
+    .one-nme {
+        font-size: 2rem;
+        font-family: "Syne", sans-serif;
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    
+    .o-stepone {
+        font-size: 1.5rem;
+    }
+
+    .so1 {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    
+    
+    .pptag {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .ppicture11 {
+        background: url(../../assets//Prjectone/FirstStep/fs1.jpg);
+        width: 700px;
+        height: 380px;
+        background-position: center;
+        background-size: cover;
+        margin-bottom: 40px;
+        border-radius: 15px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .projectonepicture2 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width:700px;
+        height: 380px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-bottom: 40px;
+    }
+
+    .pp22 {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 759px) {
+    /* .stepones-maincontainer {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px ;
+    background-color: rgb(193, 191, 189);
+    } */
+
+    .fscon{
+        background-color: rgb(193, 191, 189);
+        padding: 0px;
+        width: fit-content;
+    }
+
+    .so1 {
+        padding: 20px;
+    }
+
+    .onename-steponesection {
+        margin-bottom: 0px;
+    }
+
+    .one-nme {
+        font-size: 1.75rem;
+        font-family: "Syne", sans-serif;
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+    
+    .o-stepone {
+        font-size: 1.5rem;
+    }
+
+    .sectionone {
+        margin-right: 0px;
+        padding-left: 20px;
+        margin-left: 0px;
+        width: 425px;
+    }
+    
+    .pptag {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .ppicture11 {
+        background: url(../../assets//Prjectone/FirstStep/fs1.jpg);
+        width: 390px;
+        height: 220px;
+        background-position: center;
+        background-size: cover;
+        margin-bottom: 40px;
+        border-radius: 15px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .projectonepicture2 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width:390px;
+        height: 220px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-bottom: 40px;
+    }
+
+    .pp22 {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 399px) {
+    /* .stepones-maincontainer {
+        display: flex;
+        justify-content: center;
+        padding: 20px 0px ;
+        background-color: rgb(193, 191, 189);
+        } */
+
+        
+        .fscon{
+        background-color: rgb(193, 191, 189);
+        padding: 0px;
+        width: fit-content;
+        }
+        
+        .so1 {
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+    
+        .onename-steponesection {
+            margin-bottom: 0px;
+        }
+    
+        .one-nme {
+            font-size: 1.5rem;
+            font-family: "Syne", sans-serif;
+            padding-top: 20px;
+            padding-bottom: 30px;
+        }
+        
+        .o-stepone {
+            font-size: 1.25rem;
+        }
+    
+        .sectionone {
+            margin-right: 0px;
+            padding-left: 20px;
+            margin-left: 0px;
+            padding-right: 20px;
+            width: auto;
+        }
+        
+        .pptag {
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+    
+        .ppicture11 {
+            background: url(../../assets//Prjectone/FirstStep/fs1.jpg);
+            width: 355px;
+            height: 200px;
+            background-position: center;
+            background-size: cover;
+            margin-bottom: 20px;
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+        }
+        
+        .projectonepicture2 {
+            background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+            width:355px;
+            height: 200px;
+            background-position: center;
+            background-size: cover;
+            border-radius: 15px;
+            margin-bottom: 20px;
+        }
+    
+        .pp22 {
+            display: flex;
+            justify-content: center;
+        }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    /* .stepones-maincontainer {
+        display: flex;
+        justify-content: center;
+        padding: 20px 0px ;
+        background-color: rgb(193, 191, 189);
+        } */
+
+        .fscon{
+            background-color: rgb(193, 191, 189);
+            padding: 0px;
+            width: fit-content;
+        }
+            
+        .so1 {
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+    
+        .onename-steponesection {
+            margin-bottom: 0px;
+        }
+    
+        .one-nme {
+            font-size: 1.5rem;
+            font-family: "Syne", sans-serif;
+            padding-top: 20px;
+            padding-bottom: 30px;
+        }
+        
+        .o-stepone {
+            font-size: 1.25rem;
+        }
+    
+        .sectionone {
+            margin-right: 0px;
+            padding-left: 20px;
+            margin-left: 0px;
+            padding-right: 20px;
+            width: auto;
+        }
+        
+        .pptag {
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+    
+        .ppicture11 {
+            background: url(../../assets//Prjectone/FirstStep/fs1.jpg);
+            width: 280px;
+            height: 150px;
+            background-position: center;
+            background-size: cover;
+            margin-bottom: 20px;
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+        }
+        
+        .projectonepicture2 {
+            background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+            width:280px;
+            height: 150px;
+            background-position: center;
+            background-size: cover;
+            border-radius: 15px;
+            margin-bottom: 20px;
+        }
+    
+        .pp22 {
+            display: flex;
+            justify-content: center;
+        }
+}

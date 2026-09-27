@@ -14,10 +14,10 @@ function Contact() {
 
     emailjs
       .sendForm(
-        "service_z72arv2",
-        "template_bz25knp",
+        "service_7aa3bym",
+        "template_00q9z3u",
         form.current,
-        "ba99HFyDGlw39qb6d"
+        "pKD6KU8Q7aKcuvxk7"
       )
       e.target.reset()
   };
@@ -36,11 +36,11 @@ function Contact() {
               <RiMailSendFill className="contacts__icon" />
               <h3 className="contacts__card-title">Email</h3>
               <span className="contacts__card-data">
-              arjondreyf@gmail.com
+                hanzjonvi.malata14@gmail.com
               </span>
 
               <a
-                href="arjondreyf@gmail.com"
+                href="hanzjonvi.malata14@gmail.com"
                 className="contacts__button"
               >
                 Write me
@@ -52,10 +52,10 @@ function Contact() {
               <FaLinkedin className="contacts__icon" />
               <h3 className="contacts__card-title">LinkedIn</h3>
               <span className="contacts__card-data">
-                https://www.linkedin.com/in/andrey-flordeliza-55931930a/
+                https://www.linkedin.com/in/hanz-stillfaith-malata-08032330a/
               </span>
 
-              <a href="https://www.linkedin.com/in/andrey-flordeliza-55931930a/" className="contacts__button">
+              <a href="https://www.linkedin.com/in/hanz-stillfaith-malata-08032330a/" className="contacts__button">
                 Write me
                 <FaArrowRight className="arrow__icon" />
               </a>
@@ -64,10 +64,12 @@ function Contact() {
             <div className="contacts__card">
               <FaFacebook className="contacts__icon" />
               <h3 className="contacts__card-title">Facebook</h3>
-              <span className="contacts__card-data">https://www.facebook.com/andrei.flordeliza.7</span>
+              <span className="contacts__card-data">
+                https://www.facebook.com/hanzstillfaith.malata.5
+              </span>
 
               <a
-                href="https://www.facebook.com/andrei.flordeliza.7"
+                href="https://www.facebook.com/hanzstillfaith.malata.5"
                 className="contacts__button"
               >
                 Write me

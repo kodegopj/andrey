@@ -17,7 +17,7 @@
 
 .hello {
   color: var(--container-color);
-  background-color: yellow;
+  background-color: black;
   display: inline-block;
   color: black;
   padding: 1.25rem 2rem;
@@ -44,7 +44,7 @@
   order: 1;
   width: 20px;
   margin-left: 80px;
-  color: #545164;
+  color: #DD8EA4;
 }
 
 .home__social-icon {
@@ -59,7 +59,7 @@
 .home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-0-25);
-  color: black;
+  color: #DD8EA4;
 }
 
 .home__subtitle {
@@ -68,7 +68,7 @@
   padding-left: 2.5rem;
   font-weight: var(--font-semi-bold);
   margin-bottom: var(--mb-1);
-  color: black;
+  color: #eeb746;
 }
 
 .home__subtitle::before {
@@ -84,11 +84,11 @@
 .home__description {
   max-width: 400px;
   margin-bottom: var(--mb-3);
-  color: black;
+  color: #DD8EA4;
 }
 
 .unlock {
-  color: black;
+  color:  #eeb746;
 }
 
 .home__img {
@@ -101,11 +101,11 @@
   width: 300px;
   height: 300px;
   animation: try__animate 8s ease-in-out infinite 1s;
-  background-color: rgb(214, 214, 217);
-  border-radius: 5%;
+  /* background-color: rgb(243, 243, 248); */
+  background-color: #F2E9EB;
 }
 
-/* @keyframes try__animate {
+@keyframes try__animate {
   0% {
     border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
   }
@@ -115,7 +115,7 @@
   100% {
     border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
   }
-} */
+}
 
 /* ============== BREAKPOINTS =============*/
 /* ======= For Large Devices ======== */
@@ -169,7 +169,7 @@
   .sectio {
     padding-top: 120px;
     padding-bottom: 150px;
-    background-color: #E8E1EA;
+    background-color: #F2E9EB;
   }
 }
 
@@ -186,7 +186,7 @@
   .sectio {
     padding-top: 120px;
     padding-bottom: 350px;
-    background-color: #E8E1EA;
+    background-color: #F2E9EB;
   }
 
   .hand {
@@ -291,7 +291,7 @@
   .sectio {
     padding-top: 80px;
     padding-bottom: 162px;
-    background-color: #E8E1EA;
+    background-color: rgb(32, 32, 32)
   }
 }
 
@@ -330,7 +330,6 @@
   .sectio {
     padding-top: 50px;
     padding-bottom: 32px;
-    background-color: #E8E1EA;
   }
 }
 
@@ -391,7 +390,6 @@
   .sectio {
     padding-top: 60px;
     padding-bottom: 80px;
-    background-color: #E8E1EA;
   }
 }
 
@@ -453,6 +451,5 @@
   .section {
     padding-top: 50px;
     padding-bottom: 32px;
-    background-color: #E8E1EA;
   }
 }

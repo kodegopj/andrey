@@ -1,0 +1,337 @@
+.stepthree-container {
+    background-color: #fff;
+    padding: 60px 80px;
+}
+
+.stepthree-title {
+    color:  hsl(var(--hue), 57%, 26%);
+    font-size: 2.25rem;
+    font-family: "Syne", sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.import-section {
+    display: flex;
+    justify-content: center;
+    padding: 10px 30px;
+}
+
+.img1 {
+    background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+    width: 500px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.img2 {
+    background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+    width: 500px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.img3 {
+    background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+    width: 500px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.stepthree-mainsection{
+    padding: 40px;
+}
+
+.stepthree-titletwo {
+    font-size: 2rem;
+    color:  hsl(var(--hue), 57%, 26%);
+
+}
+
+.stepthree-p {
+    color:  hsl(var(--hue), 57%, 26%);
+}
+
+.stepthree-icon {
+    font-size: 7rem;
+    color: #eeb746;
+}
+
+@media (min-width: 760px) and (max-width: 1000px) {
+    .stepthree-container {
+        background-color: #fff;
+        padding: 60px 80px;
+    }
+    
+    .stepthree-title {
+        color:  hsl(var(--hue), 57%, 26%);
+        font-size: 2rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 30px;
+    }
+    
+    .import-section {
+        display: flex;
+        justify-content: center;
+        padding: 10px 30px;
+    }
+    
+    .img1 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img2 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .stepthree-mainsection{
+        padding: 40px;
+    }
+    
+    .stepthree-titletwo {
+        font-size: 2rem;
+        color:  hsl(var(--hue), 57%, 26%);
+    
+    }
+    
+    .stepthree-p {
+        color:  hsl(var(--hue), 57%, 26%);
+    }
+    
+    .stepthree-icon {
+        font-size: 7rem;
+        color: #eeb746;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 759px) {
+    .stepthree-container {
+        background-color: #fff;
+        padding: 40px 20px 0px 20px;
+    }
+    
+    .stepthree-title {
+        color:  hsl(var(--hue), 57%, 26%);
+        font-size: 1.75rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 30px;
+    }
+    
+    .import-section {
+        display: flex;
+        justify-content: center;
+        padding: 0px;
+    }
+    
+    .img1 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img2 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .stepthree-mainsection{
+        padding: 10px;
+    }
+    
+    .stepthree-titletwo {
+        font-size: 1.5rem;
+        color:  hsl(var(--hue), 57%, 26%);
+    
+    }
+    
+    .stepthree-p {
+        color:  hsl(var(--hue), 57%, 26%);
+    }
+    
+    .stepthree-icon {
+        font-size: 4.5rem;
+        color: #eeb746;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 399px) {
+    .stepthree-container {
+        background-color: #fff;
+        padding: 40px 20px 0px 20px;
+    }
+    
+    .stepthree-title {
+        color:  hsl(var(--hue), 57%, 26%);
+        font-size: 1.75rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 30px;
+    }
+    
+    .import-section {
+        display: flex;
+        justify-content: center;
+        padding: 0px;
+    }
+    
+    .img1 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img2 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .stepthree-mainsection{
+        padding: 10px;
+    }
+    
+    .stepthree-titletwo {
+        font-size: 1.5rem;
+        color:  hsl(var(--hue), 57%, 26%);
+    
+    }
+    
+    .stepthree-p {
+        color:  hsl(var(--hue), 57%, 26%);
+    }
+    
+    .stepthree-icon {
+        font-size: 4.5rem;
+        color: #eeb746;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    .stepthree-container {
+        background-color: #fff;
+        padding: 40px 20px 0px 20px;
+    }
+    
+    .stepthree-title {
+        color:  hsl(var(--hue), 57%, 26%);
+        font-size: 1.75rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 30px;
+    }
+    
+    .import-section {
+        display: flex;
+        justify-content: center;
+        padding: 0px;
+    }
+    
+    .img1 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img2 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .img3 {
+        background: url(../../assets//Prjectone/FirstStep/fs2.jpg);
+        width: 500px;
+        height: 250px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+    }
+    
+    .stepthree-mainsection{
+        padding: 10px;
+    }
+    
+    .stepthree-titletwo {
+        font-size: 1.25rem;
+        color:  hsl(var(--hue), 57%, 26%);
+    
+    }
+    
+    .stepthree-p {
+        color:  hsl(var(--hue), 57%, 26%);
+    }
+    
+    .stepthree-icon {
+        font-size: 4rem;
+        color: #eeb746;
+    }
+}

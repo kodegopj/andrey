@@ -1,5 +1,5 @@
 import React from 'react';
-import show from "../../assets/show.mp4";
+import showss from "../../assets/showss.mp4";
 
 
 function Showreel() {
@@ -11,7 +11,7 @@ function Showreel() {
         <div className='show__box'>
             <div className='vidcard'>
               <div className='show__video'>
-              <video src={show} controls autoPlay muted loop className='show__video'></video>
+              <video src={showss} controls autoPlay muted loop className='show__video'></video>
               </div>
             </div>
           

@@ -1,0 +1,578 @@
+.sfsc {
+    display: block;
+    justify-content: center;
+    padding: 40px;
+}
+
+
+.stepfive-title {
+    padding-top: 60px;
+    font-size: 2.25rem;
+    font-family: "Syne", sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.stepfive-img1 {
+    background: url(../../assets//Prjectone/Stepfive/stepfive1.jpg);
+    width: 380px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.stepfive-img2   {
+    background: url(../../assets//Prjectone/Stepfive/stepfive2.jpg);
+    width: 380px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.stepfive-img3 {
+    background: url(../../assets//Prjectone/Stepfive/stepfive3.jpg);
+    width: 380px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.stepfive-semititle {
+    font-size: 1.75rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.stepfive-package {
+    margin-bottom: 60px;
+    
+}
+
+.stepfive-p {
+    width: 380px;
+}
+
+.website-name {
+    font-size: 2rem;
+}
+
+@media (min-width: 1391px) and (max-width: 1600px)  {
+    .sfsc {
+        display: flex;
+        justify-content: center;
+        padding: 0px;
+    }
+    
+    
+    .stepfive-title {
+        padding-top: 60px;
+        font-size: 2.25rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 60px;
+    }
+    
+    .stepfive-img1 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive1.jpg);
+        width: 440px;
+        height: 230px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-img2   {
+        background: url(../../assets//Prjectone/Stepfive/stepfive2.jpg);
+        width: 440px;
+        height: 230px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-img3 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive3.jpg);
+        width: 440px;
+        height: 230px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-semititle {
+        font-size: 1.75rem;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    
+    .stepfive-package {
+        margin-bottom: 60px;
+        
+    }
+    
+    .stepfive-p {
+        width: 380px;
+    }
+    
+    .website-name {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1390px) {
+    .sfsc {
+        display: block;
+        justify-content: center;
+        padding: 0px;
+    }
+    
+    
+    .stepfive-title {
+        padding-top: 60px;
+        font-size: 2.5rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 60px;
+    }
+    
+    .stepfive-img1 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive1.jpg);
+        width: 800px;
+        height: 410px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-img2   {
+        background: url(../../assets//Prjectone/Stepfive/stepfive2.jpg);
+        width: 800px;
+        height: 410px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-img3 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive3.jpg);
+        width: 800px;
+        height: 410px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+        display: flex;
+        justify-content: center;
+    }
+
+    .extra {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepfive-semititle {
+        font-size: 2rem;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+    
+    .stepfive-package {
+        margin-bottom: 60px;
+        
+    }
+    
+    .stepfive-p {
+        width: 380px;
+    }
+    
+    .website-name {
+        font-size: 2rem;
+        display: flex;
+        justify-content: center;
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+}
+
+@media (min-width: 760px) and (max-width: 1000px) {
+    .sfsc {
+        display: block;
+        justify-content: center;
+        padding: 0px;
+    }
+    
+    
+    .stepfive-title {
+        padding-top: 60px;
+        font-size: 2rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 40px;
+    }
+    
+    .stepfive-img1 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive1.jpg);
+        width: 705px;
+        height: 380px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-img2   {
+        background: url(../../assets//Prjectone/Stepfive/stepfive2.jpg);
+        width: 705px;
+        height: 380px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-img3 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive3.jpg);
+        width: 705px;
+        height: 380px;;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+        display: flex;
+        justify-content: center;
+    }
+
+    .extra {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepfive-semititle {
+        font-size: 2rem;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+    
+    .stepfive-package {
+        margin-bottom: 60px;
+        
+    }
+    
+    .stepfive-p {
+        width: 380px;
+    }
+    
+    .website-name {
+        font-size: 2rem;
+        display: flex;
+        justify-content: center;
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 759px) {
+    .sfsc {
+        display: block;
+        justify-content: center;
+        padding: 10px;
+    }
+    
+    
+    .stepfive-title {
+        padding-top: 40px;
+        font-size: 1.75rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 40px;
+        padding-left: 30px;
+    }
+    
+    .stepfive-img1 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive1.jpg);
+        width: 405px;
+        height: 220px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepfive-img2   {
+        background: url(../../assets//Prjectone/Stepfive/stepfive2.jpg);
+        width: 405px;
+        height: 220px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-img3 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive3.jpg);
+        width: 405px;
+        height: 220px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+        display: flex;
+        justify-content: center;
+    }
+
+    .extra {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepfive-semititle {
+        font-size: 1.75rem;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+    
+    .stepfive-package {
+        margin-bottom: 30px;
+        
+    }
+    
+    .stepfive-p {
+        width: 380px;
+    }
+    
+    .website-name {
+        font-size: 1.75rem;
+        display: flex;
+        justify-content: center;
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+}
+
+
+@media (min-width: 350px) and (max-width: 399px) {
+    .sfsc {
+        display: block;
+        justify-content: center;
+        padding: 20px;
+    }
+    
+    
+    .stepfive-title {
+        padding-top: 40px;
+        font-size: 1.75rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 0px;
+        padding-left: 30px;
+    }
+    
+    .stepfive-img1 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive1.jpg);
+        width: 375px;
+        height: 180px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepfive-img2   {
+        background: url(../../assets//Prjectone/Stepfive/stepfive2.jpg);
+        width: 375px;
+        height: 180px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-img3 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive3.jpg);
+        width: 375px;
+        height: 180px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+        display: flex;
+        justify-content: center;
+    }
+
+    .extra {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepfive-semititle {
+        font-size: 1.5rem;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .stepfive-package {
+        margin-bottom: 30px;
+        
+    }
+    
+    .stepfive-p {
+        width: 380px;
+    }
+    
+    .website-name {
+        font-size: 1.5rem;
+        display: flex;
+        justify-content: center;
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    .sfsc {
+        display: block;
+        justify-content: center;
+        padding: 20px;
+    }
+    
+    
+    .stepfive-title {
+        padding-top: 40px;
+        font-size: 1.75rem;
+        font-family: "Syne", sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 0px;
+        padding: 30px 15px 0px 15px;
+    }
+    
+    .stepfive-img1 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive1.jpg);
+        width: 375px;
+        height: 180px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepfive-img2   {
+        background: url(../../assets//Prjectone/Stepfive/stepfive2.jpg);
+        width: 375px;
+        height: 180px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+    }
+    
+    .stepfive-img3 {
+        background: url(../../assets//Prjectone/Stepfive/stepfive3.jpg);
+        width: 375px;
+        height: 180px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-top: 10px;
+        border: 3px solid black;
+        display: flex;
+        justify-content: center;
+    }
+
+    .extra {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .stepfive-semititle {
+        font-size: 1.5rem;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        
+    }
+    
+    .stepfive-package {
+        margin-bottom: 30px;
+        
+    }
+    
+    .stepfive-p {
+        width: 380px;
+    }
+    
+    .website-name {
+        font-size: 1.5rem;
+        display: flex;
+        justify-content: center;
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+}
+
+/* @media (min-width: 1000px) and (max-width: 1390px) {
+    .stepfive-sectioncontainer {
+        display: block;
+        padding: 40px;
+    }
+} */
