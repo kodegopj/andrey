@@ -15,7 +15,7 @@ function Data() {
       </p>
       <div className="home__description">"<b className="unlock">UNLOCK THE POWER OF VIDEO MARKETING:</b> More Leads, More Sales, More Growth!"
         </div>
-      <a href="#contacts" className=" hello button--flex">
+      <a href="#calendly" className=" hello button--flex">
         Hello <RiMailSendFill className="icon__hello" />
       </a>
     </div>

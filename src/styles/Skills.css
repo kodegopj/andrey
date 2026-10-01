@@ -1,15 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
 
 .skills {
-    background-color: rgb(146, 144, 143);
+    background-color: #DD8EA4;
     border: 2px solid gray;
     border-radius: 25px;
     height: 200px;
     width: 300px;
+    color: #31383F;
 }
 
 .back__skill {
-    background-color: rgb(17, 16, 16);
+    background-color: #F2E9EB;
 }
 
 
@@ -19,7 +20,7 @@
     text-align: center;
     padding-top: 90px;
     border-top: 1px solid ;
-    color: #fff;
+    color: #31383F;
     font-family: "syne" sans-serif;
     font-family: "Syne", sans-serif;
     font-optical-sizing: auto;
@@ -61,12 +62,12 @@
 }
 
 @media (min-width: 1390px) and (max-width: 1600px) {
-    .backskill {
-    
-    display: flex;
-    justify-content: space-between;
-    padding: 90px 50px;
-}
+    .backskill {    
+        display: flex;
+        justify-content: space-between;
+        padding: 90px 50px;
+    }
+
 }
 
 @media (min-width: 1000px) and (max-width: 1390px) {
@@ -81,7 +82,7 @@
         text-align: center;
         padding-top: 50px;
         border-top: 1px solid ;
-        color: #fff;
+        color: #31383F;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
@@ -106,7 +107,8 @@
     }
 
     .skills {
-        background-color: rgb(146, 144, 143);
+        
+        background-color: #DD8EA4;
         border: 2px solid gray;
         border-radius: 25px;
         height: 200px;
@@ -126,7 +128,7 @@
         text-align: center;
         padding-top: 50px;
         border-top: 1px solid ;
-        color: #fff;
+        color: #31383F;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
@@ -134,7 +136,7 @@
     }
 
     .skills {
-        background-color: #fff;
+        background-color: #DD8EA4;
         border: 2px solid gray;
         border-radius: 25px;
         height: 180px;
@@ -185,7 +187,7 @@
         text-align: center;
         padding-top: 50px;
         border-top: 1px solid ;
-        color: #fff;
+        color: #31383F;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
@@ -242,7 +244,7 @@
         text-align: center;
         padding-top: 30px;
         border-top: 1px solid ;
-        color: #fff;
+        color: #31383F;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
@@ -299,7 +301,7 @@
         text-align: center;
         padding-top: 50px;
         border-top: 1px solid ;
-        color: #fff;
+        color: #31383F;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;

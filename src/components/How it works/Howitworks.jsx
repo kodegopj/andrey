@@ -69,7 +69,7 @@ function Howitworks() {
         <div className='contact__box'>
 
             <button  className='contactss'>               
-                <Link to="/contact" className="contact"> 
+                <Link to="/calendly" className="calendly"> 
                     <b>Contact Me</b>
                 </Link>
             </button>

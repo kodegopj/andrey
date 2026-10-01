@@ -10,6 +10,7 @@ import Educational from "./pages/Educational/Educational";
 import SMContent from "./pages/SMContent/SMContent";
 import Realstate from "./pages/Realstate/Realstate";
 import Projectone from "./pages/Projectone/Projectone";
+import Calendly from "./components/Contact/Calendly";
 
 function App() {
   return (
@@ -22,10 +23,10 @@ function App() {
         <Route path="/educational" exact element={<Educational />} />
         <Route path="/smcontent" exact element={<SMContent />} />
         <Route path="/realstate" exact element={<Realstate />} />
-        <Route path="/contact" exact element={<ContactSample />} />
+        {/* <Route path="/contact" exact element={<ContactSample />} /> */}
         <Route path="/showreels" exact element={<Showreels />} />
         <Route path="/projectone" exact element={<Projectone />} />
-        
+        <Route path="/calendly" exact element={<ContactSample />} />
       </Routes>
     </>
   );

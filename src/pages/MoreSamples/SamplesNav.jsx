@@ -25,7 +25,7 @@ function SamplesNav() {
       <Link to="/moresamples">More Samples</Link>
       {/* <a href="#Samples">More Samples</a> */}
       {/* <a href="#skills">Skills</a> */}
-      <Link to="/contact" className="contact"> Contact Me </Link>
+      <Link to="/calendly" className="contact"> Contact Me </Link>
       {/* <a href="#contacts" className="contact">
         Contact Me
       </a> */}

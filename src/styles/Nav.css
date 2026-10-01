@@ -5,8 +5,8 @@
 :root {
   --header-height: 3.5rem;
   --hue: 255;
-  --mainColor: rgb(29, 29, 91);
-  --mainColorLight: rgb(63, 63, 172);
+  --mainColor: rgb(202, 202, 215);
+  --mainColorLight: rgb(211, 211, 216);
   --secondaryColor: #eeb746;
   --textColor: #eee;
   /* --first-color:hsl(var(--hue), 90%, 60%); */
@@ -62,7 +62,7 @@
   display: flex;
   align-items: center;
   font-size: 25px;
-  color: #31383f;
+  color: var(--text-color);
   text-decoration: none;
   margin-left: 30px;
 }
@@ -138,6 +138,7 @@ nav a:hover {
     opacity: 1;
     height: 70px;
     padding: 0px;
+    color: #eeb746;
   }
 
   .nav-head nav {
@@ -151,7 +152,7 @@ nav a:hover {
     align-items: center;
     justify-content: center;
     gap: 1.25rem;
-    background-color: black;
+    background-color: #31383f;
     transition: 1s;
     transform: translateY(-100vh);
   }
@@ -190,7 +191,7 @@ nav a:hover {
     display: flex;
     align-items: center;
     font-size: 20px;
-    color: #eeb746;
+    color: var(--text-color);
     margin-left: 5px;
   }
 }

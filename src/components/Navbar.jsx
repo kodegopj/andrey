@@ -24,7 +24,7 @@ function Navbar() {
       <a href="#showreels">Show Reels</a>
       <a href="#reels">Reels</a>
       <a href="#skills">Skills</a>
-      <a href="#contacts" className="contact">
+      <a href="#calendly" className="calendly">
         Contact Me
       </a>
       <button className="nav-btn nav-close-btn" onClick={showNavbar}>
